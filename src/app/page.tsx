@@ -454,7 +454,7 @@ const Spin: React.FC = () => {
                       ? "bg-blue-900/60 text-blue-200"
                       : isWaiting
                       ? "bg-gray-800/60 text-gray-400"
-                      : "bg-gray-700/60 text-gray-200"
+                      : "bg-[#1A1A1A] text-gray-200"
                   }`}
                 >
                   <div className="relative w-max h-max preserve-3d mt-1">
